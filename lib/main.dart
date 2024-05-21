@@ -86,8 +86,17 @@ class _MyHomePageState extends State<MyHomePage> {
               height: 20,
             ),
             Text("Addition is $sum "),
+            SizedBox(
+              height: 20,
+            ),
             Text("Subtraction is $sub "),
+            SizedBox(
+              height: 20,
+            ),
             Text("Multiplication is $mul "),
+            SizedBox(
+              height: 20,
+            ),
             Text("Division is $div "),
           ],
         ),
